@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_8r4gYb0oEeu2rptTMYLCKA" label="test2" description="" language="java" technicalLabel="TEST2" author="_8r4gYr0oEeu2rptTMYLCKA" productVersion="Talend Data Fabric-7.4.1.20210426_1943-SNAPSHOT" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/tlnd-frguo/tacPublic.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM">
+  <TalendProperties:Project xmi:id="_8r4gYb0oEeu2rptTMYLCKA" label="test2" description="" language="java" technicalLabel="TEST2" author="_8r4gYr0oEeu2rptTMYLCKA" productVersion="Talend Data Fabric-7.4.1.20210426_1943-SNAPSHOT" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/tlnd-frguo/tacPublic.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM" itemsRelationVersion="1.3">
     <migrationTask xmi:id="_8s3X0L0oEeu2rptTMYLCKA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_8r4gYr0oEeu2rptTMYLCKA" login="security@company.com" firstName="security" lastName="security" type="MDM" additionnalData="{}"/>
